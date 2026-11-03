@@ -16,10 +16,10 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <div align="center">
 
-<a href="https://github.com/CDI-Ecobes/Regard360_Frontend"><img alt="Consulter l'application" src="https://img.shields.io/badge/Application-0fb6d6?style=for-the-badge"></a>
-<a href="https://github.com/CDI-Ecobes/Regard360_Scripts_R"><img alt="Voir comment les données sont traitées" src="https://img.shields.io/badge/Traitement_des_donn%C3%A9es-6e5ca8?style=for-the-badge"></a>
-<a href="https://github.com/CDI-Ecobes/Documentation_Regard360/wiki"><img alt="Lire la documentation, par où commencer" src="https://img.shields.io/badge/Documentation-b84a90?style=for-the-badge"></a>
-<a href="https://github.com/CDI-Ecobes/dev_projet_r360"><img alt="Suivre le travail de l'équipe de projet" src="https://img.shields.io/badge/%C3%89quipe_de_projet-f4569d?style=for-the-badge"></a>
+[![Consulter l'application](https://img.shields.io/badge/Application-0fb6d6?style=for-the-badge)](https://github.com/CDI-Ecobes/Regard360_Frontend)
+[![Voir comment les données sont traitées](https://img.shields.io/badge/Traitement_des_donn%C3%A9es-6e5ca8?style=for-the-badge)](https://github.com/CDI-Ecobes/Regard360_Scripts_R)
+[![Lire la documentation, par où commencer](https://img.shields.io/badge/Documentation-b84a90?style=for-the-badge)](https://github.com/CDI-Ecobes/Documentation_Regard360/wiki)
+[![Suivre le travail de l'équipe de projet](https://img.shields.io/badge/%C3%89quipe_de_projet-f4569d?style=for-the-badge)](https://github.com/CDI-Ecobes/dev_projet_r360)
 
 </div>
 
@@ -27,32 +27,13 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <h2 align="center">Les dépôts du projet</h2>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="32%" align="left">Dépôt</th>
-      <th align="left">Rôle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/Regard360_Frontend"><strong>Regard360_Frontend</strong></a></td>
-      <td>L'application Shiny — la branche <code>Dev</code> se déploie automatiquement en environnement de test</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/Regard360_Scripts_R"><strong>Regard360_Scripts_R</strong></a></td>
-      <td>Les scripts R qui préparent et transforment les données de l'application</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/Documentation_Regard360"><strong>Documentation_Regard360</strong></a></td>
-      <td>La documentation du projet — elle se trouve dans l'onglet Wiki du dépôt</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/dev_projet_r360"><strong>dev_projet_r360</strong></a></td>
-      <td>Le dépôt de travail de l'équipe DICJ et sa nomenclature des branches</td>
-    </tr>
-  </tbody>
-</table>
+[![Regard360_Frontend — L'application Shiny](assets/cartes/carte-frontend.png)](https://github.com/CDI-Ecobes/Regard360_Frontend)
+
+[![Regard360_Scripts_R — Les scripts R de traitement des données](assets/cartes/carte-scripts.png)](https://github.com/CDI-Ecobes/Regard360_Scripts_R)
+
+[![Documentation_Regard360 — La documentation du projet](assets/cartes/carte-documentation.png)](https://github.com/CDI-Ecobes/Documentation_Regard360)
+
+[![dev_projet_r360 — Le dépôt de travail de l'équipe](assets/cartes/carte-dev-projet.png)](https://github.com/CDI-Ecobes/dev_projet_r360)
 
 ---
 
@@ -60,28 +41,24 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <p align="center"><em>Ces dépôts servent aux essais et à l'apprentissage de l'équipe de développement.</em></p>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="32%" align="left">Dépôt</th>
-      <th align="left">Rôle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/Regard360_Frontend_Test"><strong>Regard360_Frontend_Test</strong></a></td>
-      <td>Copie de test de l'application, créée pour des essais sur Shiny</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/R360_environnement_test"><strong>R360_environnement_test</strong></a></td>
-      <td>Dépôt d'apprentissage GitHub de l'équipe, conservé pour référence</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CDI-Ecobes/TEST-ECOBES-DEV"><strong>TEST-ECOBES-DEV</strong></a></td>
-      <td>Bac à sable de tests de scripts — rien n'en est déployé</td>
-    </tr>
-  </tbody>
-</table>
+[![Regard360_Frontend_Test — Copie de test de l'application](assets/cartes/carte-frontend-test.png)](https://github.com/CDI-Ecobes/Regard360_Frontend_Test)
+
+[![R360_environnement_test — Dépôt d'apprentissage GitHub](assets/cartes/carte-environnement-test.png)](https://github.com/CDI-Ecobes/R360_environnement_test)
+
+[![TEST-ECOBES-DEV — Bac à sable de tests de scripts](assets/cartes/carte-test-ecobes-dev.png)](https://github.com/CDI-Ecobes/TEST-ECOBES-DEV)
+
+<details>
+<summary>Liste des dépôts en format texte</summary>
+
+- [Regard360_Frontend](https://github.com/CDI-Ecobes/Regard360_Frontend) — L'application Shiny ; la branche `Dev` se déploie automatiquement en environnement de test
+- [Regard360_Scripts_R](https://github.com/CDI-Ecobes/Regard360_Scripts_R) — Les scripts R qui préparent et transforment les données de l'application
+- [Documentation_Regard360](https://github.com/CDI-Ecobes/Documentation_Regard360) — La documentation du projet, dans l'onglet Wiki du dépôt
+- [dev_projet_r360](https://github.com/CDI-Ecobes/dev_projet_r360) — Le dépôt de travail de l'équipe DICJ et sa nomenclature des branches
+- [Regard360_Frontend_Test](https://github.com/CDI-Ecobes/Regard360_Frontend_Test) — Copie de test de l'application, créée pour des essais sur Shiny
+- [R360_environnement_test](https://github.com/CDI-Ecobes/R360_environnement_test) — Dépôt d'apprentissage GitHub de l'équipe, conservé pour référence
+- [TEST-ECOBES-DEV](https://github.com/CDI-Ecobes/TEST-ECOBES-DEV) — Bac à sable de tests de scripts ; rien n'en est déployé
+
+</details>
 
 ---
 
