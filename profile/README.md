@@ -27,13 +27,13 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <h2 align="center">Les dépôts du projet</h2>
 
-[![Regard360_Frontend — L'application Shiny](assets/carte-frontend.png)](https://github.com/CDJ-Ecobes/Regard360_Frontend)
+<a href="https://github.com/CDJ-Ecobes/Regard360_Frontend"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-frontend.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-frontend-claire.png"><img alt="Regard360_Frontend — L'application Shiny" src="assets/carte-frontend.png"></picture></a>
 
-[![Regard360_Scripts_R — Les scripts R de traitement des données](assets/carte-scripts.png)](https://github.com/CDJ-Ecobes/Regard360_Scripts_R)
+<a href="https://github.com/CDJ-Ecobes/Regard360_Scripts_R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-scripts.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-scripts-claire.png"><img alt="Regard360_Scripts_R — Les scripts R de traitement des données" src="assets/carte-scripts.png"></picture></a>
 
-[![Documentation_Regard360 — La documentation du projet](assets/carte-documentation.png)](https://github.com/CDJ-Ecobes/Documentation_Regard360)
+<a href="https://github.com/CDJ-Ecobes/Documentation_Regard360"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-documentation.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-documentation-claire.png"><img alt="Documentation_Regard360 — La documentation du projet" src="assets/carte-documentation.png"></picture></a>
 
-[![dev_projet_r360 — Le dépôt de travail de l'équipe](assets/carte-dev-projet.png)](https://github.com/CDJ-Ecobes/dev_projet_r360)
+<a href="https://github.com/CDJ-Ecobes/dev_projet_r360"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-dev-projet.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-dev-projet-claire.png"><img alt="dev_projet_r360 — Le dépôt de travail de l'équipe" src="assets/carte-dev-projet.png"></picture></a>
 
 ---
 
@@ -41,11 +41,11 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <p align="center"><em>Ces dépôts servent aux essais et à l'apprentissage de l'équipe de développement.</em></p>
 
-[![Regard360_Frontend_Test — Copie de test de l'application](assets/carte-frontend-test.png)](https://github.com/CDJ-Ecobes/Regard360_Frontend_Test)
+<a href="https://github.com/CDJ-Ecobes/Regard360_Frontend_Test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-frontend-test.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-frontend-test-claire.png"><img alt="Regard360_Frontend_Test — Copie de test de l'application" src="assets/carte-frontend-test.png"></picture></a>
 
-[![R360_environnement_test — Dépôt d'apprentissage GitHub](assets/carte-environnement-test.png)](https://github.com/CDJ-Ecobes/R360_environnement_test)
+<a href="https://github.com/CDJ-Ecobes/R360_environnement_test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-environnement-test.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-environnement-test-claire.png"><img alt="R360_environnement_test — Dépôt d'apprentissage GitHub" src="assets/carte-environnement-test.png"></picture></a>
 
-[![TEST-ECOBES-DEV — Bac à sable de tests de scripts](assets/carte-test-ecobes-dev.png)](https://github.com/CDJ-Ecobes/TEST-ECOBES-DEV)
+<a href="https://github.com/CDJ-Ecobes/TEST-ECOBES-DEV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-test-ecobes-dev.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-test-ecobes-dev-claire.png"><img alt="TEST-ECOBES-DEV — Bac à sable de tests de scripts" src="assets/carte-test-ecobes-dev.png"></picture></a>
 
 ---
 
