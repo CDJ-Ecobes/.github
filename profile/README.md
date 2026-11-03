@@ -1,11 +1,12 @@
 <div align="center">
 
-# Bienvenue sur l'organisation ÉCOBES
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banniere-ecobes-sombre.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banniere-ecobes-claire.png">
+  <img alt="Bienvenue sur l'organisation ÉCOBES — Projet Regard360" src="assets/banniere-ecobes-claire.png" width="100%">
+</picture>
 
 Ici, vous trouverez les différents projets qui font partie de cette organisation.
-
-**Regard360** — mis en place par l'équipe de projet des finissants
-en Techniques de l'informatique 2026, Cégep de Jonquière
 
 </div>
 
