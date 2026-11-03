@@ -16,8 +16,8 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <div align="center">
 
-[![Consulter l'application](https://img.shields.io/badge/Application-2563eb?style=for-the-badge)](https://github.com/CDI-Ecobes/Regard360_Frontend)
-[![Voir comment les données sont traitées](https://img.shields.io/badge/Traitement_des_donn%C3%A9es-0891b2?style=for-the-badge)](https://github.com/CDI-Ecobes/Regard360_Scripts_R)
+[![Consulter l'application](https://img.shields.io/badge/Application-2563eb?style=for-the-badge)](https://github.com/CDJ-Ecobes/Regard360_Frontend)
+[![Voir comment les données sont traitées](https://img.shields.io/badge/Traitement_des_donn%C3%A9es-0891b2?style=for-the-badge)](https://github.com/CDJ-Ecobes/Regard360_Scripts_R)
 [![Lire la documentation, par où commencer](https://img.shields.io/badge/Documentation-0d9488?style=for-the-badge)](https://github.com/CDI-Ecobes/Documentation_Regard360/wiki)
 [![Suivre le travail de l'équipe de projet](https://img.shields.io/badge/%C3%89quipe_de_projet-16a34a?style=for-the-badge)](https://github.com/CDI-Ecobes/dev_projet_r360)
 
@@ -27,9 +27,9 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <h2 align="center">Les dépôts du projet</h2>
 
-[![Regard360_Frontend — L'application Shiny](assets/carte-frontend.png)](https://github.com/CDI-Ecobes/Regard360_Frontend)
+[![Regard360_Frontend — L'application Shiny](assets/carte-frontend.png)](https://github.com/CDJ-Ecobes/Regard360_Frontend)
 
-[![Regard360_Scripts_R — Les scripts R de traitement des données](assets/carte-scripts.png)](https://github.com/CDI-Ecobes/Regard360_Scripts_R)
+[![Regard360_Scripts_R — Les scripts R de traitement des données](assets/carte-scripts.png)](https://github.com/CDJ-Ecobes/Regard360_Scripts_R)
 
 [![Documentation_Regard360 — La documentation du projet](assets/carte-documentation.png)](https://github.com/CDI-Ecobes/Documentation_Regard360)
 
