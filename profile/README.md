@@ -1,77 +1,54 @@
+<div align="center">
+
 # Bienvenue sur l'organisation ÉCOBES
 
 Ici, vous trouverez les différents projets qui font partie de cette organisation.
 
-Voici les différents dépôts du projet **Regard360**, mis en place par l'équipe de projet des **finissants en Techniques de l'informatique — 2026** du Cégep de Jonquière. Chaque dépôt est présenté ci-dessous, en une ou deux phrases, afin que vous puissiez trouver rapidement celui que vous cherchez.
+**Regard360** — mis en place par l'équipe de projet des finissants
+en Techniques de l'informatique 2026, Cégep de Jonquière
+
+</div>
 
 ---
 
-## Les dépôts du projet Regard360
+## Que souhaitez-vous faire ?
 
-### Regard360_Frontend
-
-L'application Shiny Regard360 (dossier `V_collab_info`, fichier principal `app.R`). Un envoi de code sur la branche `Dev` y déclenche automatiquement le déploiement vers l'environnement de test (*staging*).
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/Regard360_Frontend)
-
-### Regard360_Scripts_R
-
-Les scripts R de traitement des données : c'est ici que les données brutes sont préparées et transformées pour alimenter l'application. Son Wiki propose des tutoriels détaillés pour travailler avec R et RStudio.
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/Regard360_Scripts_R)
-
-### Documentation_Regard360
-
-La documentation du projet, hébergée dans l'onglet **Wiki** de ce dépôt. Vous y trouverez la page « Par où commencer ? », les guides d'installation, les manipulations de base sur GitHub et une foire aux questions.
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/Documentation_Regard360)
-
-### dev_projet_r360
-
-Le dépôt de travail de l'équipe de projet DICJ (automne 2026). Il porte notamment la nomenclature officielle des branches du projet : `main`, `Dev` et `feature/…`.
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/dev_projet_r360)
+| | |
+|---|---|
+| Consulter l'application | **[Regard360_Frontend](https://github.com/CDI-Ecobes/Regard360_Frontend)** |
+| Voir comment les données sont traitées | **[Regard360_Scripts_R](https://github.com/CDI-Ecobes/Regard360_Scripts_R)** |
+| Lire la documentation, par où commencer | **[Wiki de Documentation_Regard360](https://github.com/CDI-Ecobes/Documentation_Regard360/wiki)** |
+| Suivre le travail de l'équipe de projet | **[dev_projet_r360](https://github.com/CDI-Ecobes/dev_projet_r360)** |
 
 ---
 
-## Dépôts inutilisés — dépôts d'essai de l'équipe
+## Les dépôts, en un coup d'œil
 
-Les trois dépôts suivants ont servi aux essais et à l'apprentissage de l'équipe de développement. **Ils ne sont pas utilisés pour le projet officiel** : si vous venez consulter ou utiliser Regard360, référez-vous aux dépôts présentés plus haut.
-
-### Regard360_Frontend_Test — *inutilisé*
-
-Copie de test du dépôt Frontend, créée pour effectuer des essais sur Shiny et Posit Connect. Elle ne contient pas la version officielle de l'application.
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/Regard360_Frontend_Test)
-
-### R360_environnement_test — *inutilisé*
-
-Dépôt d'apprentissage qui a permis à l'équipe de se familiariser avec GitHub (branches, demandes de fusion, premiers scripts). Il est conservé à titre de référence seulement.
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/R360_environnement_test)
-
-### TEST-ECOBES-DEV — *inutilisé*
-
-Petit dépôt de tests de scripts, utilisé comme bac à sable pendant le développement. Aucun élément de ce dépôt n'est déployé.
-
-→ [Ouvrir le dépôt](https://github.com/CDI-Ecobes/TEST-ECOBES-DEV)
+| Dépôt | Rôle | |
+|---|---|:---:|
+| [Regard360_Frontend](https://github.com/CDI-Ecobes/Regard360_Frontend) | L'application Shiny — la branche `Dev` se déploie automatiquement en environnement de test | En usage |
+| [Regard360_Scripts_R](https://github.com/CDI-Ecobes/Regard360_Scripts_R) | Les scripts R qui préparent et transforment les données de l'application | En usage |
+| [Documentation_Regard360](https://github.com/CDI-Ecobes/Documentation_Regard360) | La documentation du projet — elle se trouve dans l'onglet Wiki du dépôt | En usage |
+| [dev_projet_r360](https://github.com/CDI-Ecobes/dev_projet_r360) | Le dépôt de travail de l'équipe DICJ et sa nomenclature des branches | Équipe |
+| [Regard360_Frontend_Test](https://github.com/CDI-Ecobes/Regard360_Frontend_Test) | Copie de test de l'application, créée pour des essais sur Shiny | *Inutilisé* |
+| [R360_environnement_test](https://github.com/CDI-Ecobes/R360_environnement_test) | Dépôt d'apprentissage GitHub de l'équipe, conservé pour référence | *Inutilisé* |
+| [TEST-ECOBES-DEV](https://github.com/CDI-Ecobes/TEST-ECOBES-DEV) | Bac à sable de tests de scripts — rien n'en est déployé | *Inutilisé* |
 
 ---
-
-## Par où commencer
-
-Si vous visitez cette organisation pour la première fois, rendez-vous dans **Documentation_Regard360**, onglet **Wiki**, et commencez par la page **« Par où commencer ? »**. Elle présente la démarche générale du projet : le cheminement des données brutes vers les scripts de traitement, puis vers les données transformées et l'application Shiny, jusqu'à son déploiement.
 
 ## Vous débutez sur GitHub ?
 
-GitHub peut sembler intimidant au premier abord, particulièrement lorsqu'on n'y travaille pas au quotidien. Des guides pas à pas ont été préparés pour vous accompagner, notamment dans le Wiki de Documentation_Regard360 et dans celui de Regard360_Scripts_R (installation de R, RStudio et Git, récupération du projet, manipulations de base).
+Des guides pas à pas ont été préparés pour vous : commencez par la page
+**« Par où commencer ? »** du [Wiki de documentation](https://github.com/CDI-Ecobes/Documentation_Regard360/wiki),
+puis, au besoin, les tutoriels d'installation (R, RStudio, Git) du
+[Wiki de Regard360_Scripts_R](https://github.com/CDI-Ecobes/Regard360_Scripts_R/wiki).
 
-## Besoin d'aide ?
-
-Si vous éprouvez une difficulté, si vous ne trouvez pas l'information recherchée ou si un accès semble manquant, nous vous invitons à communiquer avec l'équipe du projet. Il nous fera plaisir de vous orienter.
-
-*[Coordonnées de la personne-ressource à confirmer avant publication.]*
+**Besoin d'aide ?** Communiquez avec l'équipe du projet — il nous fera plaisir de vous orienter.
 
 ---
 
-*Organisation ÉCOBES — projet Regard360, mis en place par l'équipe de projet des finissants en Techniques de l'informatique, Cégep de Jonquière, 2026.*
+<div align="center">
+
+*Organisation ÉCOBES · Regard360 · Cégep de Jonquière — 2026*
+
+</div>
