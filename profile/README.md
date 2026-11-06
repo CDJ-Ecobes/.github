@@ -41,8 +41,6 @@ Ici, vous trouverez les différents projets qui font partie de cette organisatio
 
 <p align="center"><em>Ces dépôts servent aux essais et à l'apprentissage de l'équipe de développement.</em></p>
 
-<a href="https://github.com/CDJ-Ecobes/Regard360_Frontend_Test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-frontend-test.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-frontend-test-claire.png"><img alt="Regard360_Frontend_Test — Copie de test de l'application" src="assets/carte-frontend-test.png"></picture></a>
-
 <a href="https://github.com/CDJ-Ecobes/R360_environnement_test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-environnement-test.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-environnement-test-claire.png"><img alt="R360_environnement_test — Dépôt d'apprentissage GitHub" src="assets/carte-environnement-test.png"></picture></a>
 
 <a href="https://github.com/CDJ-Ecobes/TEST-ECOBES-DEV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-test-ecobes-dev.png"><source media="(prefers-color-scheme: light)" srcset="assets/carte-test-ecobes-dev-claire.png"><img alt="TEST-ECOBES-DEV — Bac à sable de tests de scripts" src="assets/carte-test-ecobes-dev.png"></picture></a>
